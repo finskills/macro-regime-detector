@@ -23,7 +23,7 @@ Then maps the regime to an asset allocation framework (OW / N / UW across equiti
 ## Install
 
 ```bash
-npx skills add https://github.com/your-org/finskills-skills --skill macro-regime-detector
+npx skills add https://github.com/finskills/macro-regime-detector --skill macro-regime-detector
 ```
 
 ## Quick Start
@@ -66,7 +66,7 @@ Claude: [Fetches treasury rates, GDP, inflation, Fed policy, commodity data — 
 
 ## Requirements
 
-- **Finskills API Key** ([register here](https://finskills.net)): [Register at finskills.net](https://finskills.net) (free tier available) — all endpoints used are on the free tier
+- **Finskills API Key**: [Register at finskills.net](https://finskills.net) (free tier available) — all endpoints used are on the free tier
 - **Claude** with skill support
 
 ## License

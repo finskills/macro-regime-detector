@@ -1,3 +1,16 @@
+---
+name: Macro Regime Detector
+version: 1.0.0
+description: "Classify the current macroeconomic regime across six states using GDP, CPI, Fed Funds rate, yield curve, and credit spread data from the Finskills API."
+author: finskills
+homepage: https://github.com/finskills/macro-regime-detector
+credentials:
+  - name: FINSKILLS_API_KEY
+    description: "Finskills API key — register for free at https://finskills.net (free tier sufficient for all endpoints used in this skill)"
+    required: true
+    link: https://finskills.net
+---
+
 # Macro Regime Detector
 
 Identify the current US macroeconomic regime by synthesizing real-time treasury
@@ -9,8 +22,7 @@ and asset allocation implications.
 
 ## Setup
 
-**API Key required** (Free tier supports all endpoints used in this skill).  
-Set: `FINSKILLS_API_KEY=your_key_here`  
+**API Key required** — [Register at https://finskills.net](https://finskills.net) to get your free key.  
 Header: `X-API-Key: <your_api_key>`
 > **Get your API key**: Register at **https://finskills.net** — free tier available, Pro plan unlocks real-time quotes, history, and financials.
 
