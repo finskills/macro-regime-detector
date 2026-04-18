@@ -66,7 +66,7 @@ Claude: [Fetches treasury rates, GDP, inflation, Fed policy, commodity data — 
 
 ## Requirements
 
-- **Finskills API Key**: [Get one free](https://finskills.net/register) — all endpoints used are on the free tier
+- **Finskills API Key** ([register here](https://finskills.net)): [Register at finskills.net](https://finskills.net) (free tier available) — all endpoints used are on the free tier
 - **Claude** with skill support
 
 ## License

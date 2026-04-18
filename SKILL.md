@@ -11,7 +11,8 @@ and asset allocation implications.
 
 **API Key required** (Free tier supports all endpoints used in this skill).  
 Set: `FINSKILLS_API_KEY=your_key_here`  
-Header: `X-API-Key: <key>`
+Header: `X-API-Key: <your_api_key>`
+> **Get your API key**: Register at **https://finskills.net** — free tier available, Pro plan unlocks real-time quotes, history, and financials.
 
 ---
 
