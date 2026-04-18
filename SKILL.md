@@ -1,6 +1,6 @@
 ---
 name: Macro Regime Detector
-version: 1.0.0
+version: 1.0.1
 description: "Classify the current macroeconomic regime across six states using GDP, CPI, Fed Funds rate, yield curve, and credit spread data from the Finskills API."
 author: finskills
 homepage: https://github.com/finskills/macro-regime-detector
